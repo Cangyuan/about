@@ -493,6 +493,12 @@ ul,ol,li,a,a:hover,a:focus,a:active,div{
 	letter-spacing: 2px;
 	font-size: 16px;
 }
+#writing{
+	padding:0;
+}
+#writing:before{
+	background-size: auto 100%;
+}
 /*foot start*/
 .foot-content{
 	padding:0 20px;
